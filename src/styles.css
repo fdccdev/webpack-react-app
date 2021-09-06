@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #333;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    margin:0;
+}
+
+.container {
+    border: 1px solid #add500;
+    color: orange;
+    padding: 1rem;
+    border-radius: 5px; 
+}
